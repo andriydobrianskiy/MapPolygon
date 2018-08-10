@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="webapp:GWT">
+    <output-path>src/main/webapp/WEB/widgetsets</output-path>
+    <root id="root">
+      <element id="gwt-compiler-output" facet="webapp/gwt/GWT" />
+      <element id="directory" name="VAADIN">
+        <element id="directory" name="widgetsets">
+          <element id="gwt-compiler-output" facet="webapp/gwt/GWT" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
